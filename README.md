@@ -1,2 +1,2 @@
-# Humb-menu
- humburger-menu-js
+# Hamburger-menu
+ hamburger-menu-js
